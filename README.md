@@ -3,10 +3,22 @@ Data analytics project
 
 
 Files:
-SpotifyAnalysis.ipynb - Contains all model testing code \n
+
+
+SpotifyAnalysis.ipynb - Contains all model testing code 
+
+
 EDA.ipynb - Contains all the pre-EDA work we had done
 
-Team Members:\n
-Shaashwat Jain\n
-Srishti Sachan\n
+
+
+Team Members:
+
+
+Shaashwat Jain
+
+
+Srishti Sachan
+
+
 Deeksha D
